@@ -1,4 +1,6 @@
-If you are using this code in your own project, please cite our paper:
+TOAD-GAN-DQN is going to add a Deep Q-Learning Network to the existing arcatecture to enable 100% playable level outputs. Additionally, world sematic checker will be enforced to follow the existing physical "rules" for the game world. This framework will be modular allowing for the expansion beyond Mario games.
+
+TOAD-GAN paper:
 
 ```
 @inproceedings{awiszus2020toadgan,
